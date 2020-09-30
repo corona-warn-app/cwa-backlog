@@ -1,5 +1,6 @@
 # Corona-Warn-App: Backlog
 
+<p><br>
 <a href="https://github.com/corona-warn-app/cwa-backlog/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-backlog"></a>
 
 ## About this Repository
@@ -31,4 +32,4 @@ You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./LICENSE) for the specific language governing permissions and limitations under the License.
 
-The "Corona-Warn-App" logo is a registered trademark of The Press and Information Office of the Federal Government. For more information please see [bundesregierung.de](https://www.bundesregierung.de/breg-en/federal-government/federal-press-office).
+The "Corona-Warn-App" logo is a registered trademark of The Press and Information Office of the Federal Government. For more information please see [bundesregierung.de](https://www.bundesregierung.de/breg-en/federal-government/federal-press-office) and (https://www.covid19india.org/).
