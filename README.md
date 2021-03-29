@@ -10,7 +10,9 @@ Why has this repository been archived? For some time the backlog repository had 
 
 Archived repositories are read-only. Closed issues in an archived repository can be read, but not re-opened or commented on. Therefore, by transferring issues from the backlog repository to other active repositories we allow the community to comment and re-open closed issues if necessary.
 
-Originally the backlog repository was intended to show issues in the pipeline of being solved. Instead, we now mark issues in the active repositories with labels "Fix" + release number to show that there is a plan to fix the issue. This means that the issue is either still OPEN, ANALYZED, IN PROGRESS, COMPLETED or CONFIRMED (i.e. tested).
+Originally the backlog repository was intended to show issues in the pipeline of being solved. Instead, we now mark issues in the active repositories with labels "Fix" + release number to show that there is a plan to fix the issue. 
+
+This means that the issue has a corresponding internal development status which is one of OPEN, ANALYZING, IN PROGRESS, COMPLETED or CONFIRMED (i.e. tested). The Fix label stays with the issue even after the fix has been released and the issue has been closed.
 
 
 ## About this Repository (Original text)
