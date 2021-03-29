@@ -4,15 +4,13 @@
 
 ## About this Repository
 
-This backlog repository was archived on xx/xx/2021. All issues from the backlog repository, including the closed ones, have been transferred to active repositories, i.e. no issue has been lost. For reasons of transparency we have archived this repository in preference to deleting it. This allows previous links to issues in the backlog to continue to work, due to GitHub's automatic re-direction to the transferred issue in its new repository location.
+This backlog repository was archived on March 30th, 2021. All issues from the backlog repository, including the closed ones, have been transferred to active repositories, i.e. no issue has been lost. For reasons of transparency we have archived this repository in preference to deleting it. This allows previous links to issues in the backlog to continue to work, due to GitHub's automatic re-direction to the transferred issue in its new repository location.
 
 Why has this repository been archived? For some time the backlog repository had not been used for its original purpose and instead issues are usually taken care of in the repository where they were created. Keeping issues in the original repository has the advantage of not mixing up Android, iOS, documentation, website and wish-list items together with other issues.
 
 Archived repositories are read-only. Closed issues in an archived repository can be read, but not re-opened or commented on. Therefore, by transferring issues from the backlog repository to other active repositories we allow the community to comment and re-open closed issues if necessary.
 
-Originally the backlog repository was intended to show issues in the pipeline of being solved. Instead, we now mark issues in the active repositories with labels "Fix" + release number to show that there is a plan to fix the issue. 
-
-This means that the issue has a corresponding internal development status which is one of OPEN, ANALYZING, IN PROGRESS, COMPLETED or CONFIRMED (i.e. tested). The Fix label stays with the issue even after the fix has been released and the issue has been closed.
+Originally the backlog repository was intended to show issues in the pipeline of being solved. Instead, we now mark issues in the active repositories with labels "Fix" + release number to show that there is a plan to fix the issue. This means that the issue has a corresponding internal development status which is one of OPEN, ANALYZING, IN PROGRESS, COMPLETED or CONFIRMED (i.e. tested). The Fix label stays with the issue even after the fix has been released and the issue has been closed.
 
 
 ## About this Repository (Original text)
