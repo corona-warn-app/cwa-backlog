@@ -4,6 +4,17 @@
 
 ## About this Repository
 
+This backlog repository was archived on xx/xx/2021. All issues from the backlog repository, including the closed ones, have been transferred to active repositories, i.e. no issue has been lost. For reasons of transparency we have archived this repository in preference to deleting it. This allows previous links to issues in the backlog to continue to work, due to GitHub's automatic re-direction to the transferred issue in its new repository location.
+
+Why has this repository been archived? For some time the backlog repository had not been used for its original purpose and instead issues are usually taken care of in the repository where they were created. Keeping issues in the original repository has the advantage of not mixing up Android, iOS, documentation, website and wish-list items together with other issues.
+
+Archived repositories are read-only. Closed issues in an archived repository can be read, but not re-opened or commented on. Therefore, by transferring issues from the backlog repository to other active repositories we allow the community to comment and re-open closed issues if necessary.
+
+Originally the backlog repository was intended to show issues in the pipeline of being solved. Instead, we now mark issues in the active repositories with labels "Fix" + release number to show that there is a plan to fix the issue. This means that the issue is either still OPEN, ANALYZED, IN PROGRESS, COMPLETED or CONFIRMED (i.e. tested).
+
+
+## About this Repository (Original text)
+
 This repository contains future improvements of the Corona-Warn-App that will be implemented for the next app releases.
 Please note that this is not a *complete* backlog but a communication of a subset of planned extensions where we more or less know that they are coming.
 
